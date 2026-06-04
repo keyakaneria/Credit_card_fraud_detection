@@ -1,5 +1,5 @@
-data/creditcard.csv
 *.pkl
 __pycache__/
 .ipynb_checkpoints/
 .vscode/
+data/creditcardcsv
